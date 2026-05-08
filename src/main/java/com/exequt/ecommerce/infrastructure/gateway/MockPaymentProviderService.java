@@ -1,4 +1,4 @@
-package com.exequt.ecommerce.application.service;
+package com.exequt.ecommerce.infrastructure.gateway;
 
 import com.exequt.ecommerce.domain.gateway.PaymentGateway;
 import com.exequt.ecommerce.domain.model.Payment;
